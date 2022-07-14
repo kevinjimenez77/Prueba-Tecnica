@@ -1,0 +1,9 @@
+body{
+    background-image: url('https://i.imgur.com/I2D7NLb.png');
+}
+
+.contenido{
+    justify-content: center;
+    align-items: center;
+    transform: translateY(50%);
+}
